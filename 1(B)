@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="gold">
+    <h1 align ="center"><i>Shop Time</i></h1>
+    <h2 align ="center"><i>one step for all your needs</i></h2>
+    <nav align ="center">
+        <h3> Home || login || register || my orders || help ||</h3>
+    </nav>
+    <main>
+        <section>
+            <P> clothing</P>
+        </section>
+        <section>
+            <P>footwaer </P>
+        </section>
+        <section>
+            <p> electronics</p>
+        </section>
+        <section>
+            <p>furniture</p>
+        </section>
+        <section>
+            <p> cosmetics</p>
+        </section>
+        <section>
+            <p>groceries</p>
+        </section>
+    </main>
+    <article>
+        <h1>
+            special offer
+        </h1>
+        <aside>
+            <p> Download our app at playstore and win exciting prizes</p>
+        </aside>
+    </article>
+</body>
+<footer>
+    copyright@wayFar,2020
+</footer>
+</html>
